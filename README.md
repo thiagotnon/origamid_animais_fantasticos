@@ -8,5 +8,4 @@
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5 "HTML5")
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS "CSS")
-- [SASS](https://sass-lang.com "SASS")
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript "JavaScript")
